@@ -1,4 +1,4 @@
-React Reveal Text
+React Reveal Text test
 ---------------
 [![npm](https://img.shields.io/npm/v/react-reveal-text.svg)](https://www.npmjs.com/package/react-reveal-text)
 [![dependencies](https://img.shields.io/david/adrianmcli/react-reveal-text.svg)](https://github.com/adrianmcli/react-reveal-text/blob/master/package.json)
